@@ -1,0 +1,28 @@
+{
+  "name": "kata-utils",
+  "version": "1.0.0",
+  "description": "A things that help you manage your future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kata-ai/kata-utils.git"
+  },
+  "keywords": [
+    "util",
+    "kata-utils",
+    "utis"
+  ],
+  "author": "aliarham@kata.ai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kata-ai/kata-utils/issues"
+  },
+  "homepage": "https://github.com/kata-ai/kata-utils#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "typescript": "^2.8.3"
+  }
+}
