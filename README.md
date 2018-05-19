@@ -2,6 +2,8 @@
 > A things that help you develop your service
 
 
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/kata-utils)
+
 ## Install
 
 ```bash
