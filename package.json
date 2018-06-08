@@ -21,8 +21,7 @@
     "url": "https://github.com/kata-ai/kata-utils/issues"
   },
   "homepage": "https://github.com/kata-ai/kata-utils#readme",
-  "dependencies": {
-    "crypto": "^1.0.1",
-    "typescript": "^2.8.3"
+  "devDependencies": {
+    "@types/node": "^10.3.2"
   }
 }
